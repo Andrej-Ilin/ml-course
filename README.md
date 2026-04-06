@@ -1,5 +1,7 @@
 [**Ссылка на ветку ML тренировок Яндекса 2023**](https://github.com/girafe-ai/ml-course/tree/23f_yandex_ml_trainings)
 
+> Reference mirror of public course materials from girafe-ai. I keep this repository public for personal reference; the course content is authored by the original teaching team listed below.
+
 # Machine Learning course
 First semester of girafe-ai Machine Learning course
 
@@ -17,8 +19,8 @@ First semester of girafe-ai Machine Learning course
 | 24.10.2022     | Week07. Разбор теста | [Запись разбора](https://youtu.be/YiO1N6yVJcg)    |  | | | | Вместо лекции были тест и разбор. | 
 | 31.10.2022     | Week08. Intro into Deep Learning | [Запись лекции](https://youtu.be/G--msc2IR-Y) [Запись семинара](https://youtu.be/0WMAfRuFHy8)   | [Слайды](https://github.com/girafe-ai/ml-course/blob/22f_basic/week0_07_intro_to_DL/lect007_intro_to_dl_style.pdf) | | | |  | 
 | 07.11.2022     | Week09. Backpropogation |  [Запись семинара](https://youtu.be/HGk5xQ0azdo)   | [Слайды]() | | | | Лекция не велась по причине болезни преподавателя, однако был проведён дополнительный семинар по backpropogation | 
-| 14.11.2022     | Week10. Dropout and Batchnorm | [Запись лекции](https://youtu.be/UtEV_ILJTA0) [Запись семинара](https://youtu.be/tq-mmdsW5QI)   | [Слайды](https://github.com/girafe-ai/ml-course/blob/22f_basic/week0_08_dropout_batchnorm/lect008_deeplearning_part_2_style.pdf) | | | |  | 
-| 21.11.2022     | Week11. Embeddings and seq2seq model | [Запись лекции](https://youtu.be/kUAnB_Leg6E) [Запись семинара](https://youtu.be/KOIEozoCQo0)   | [Слайды](https://github.com/girafe-ai/ml-course/blob/22f_basic/week0_09_embeddings_and_seq2seq/lect009_Language_models_and_RNN.pdf) | | | |  | 
+| 14.11.2022     | Week10. Dropout and Batchnorm | [Запись лекции](https://youtu.be/UtEV_ILJTA0) [Запись семинара](https://youttu.be/tq-mmdsW5QI)   | [Слайды](https://github.com/girafe-ai/ml-course/blob/22f_basic/week0_08_dropout_batchnorm/lect008_deeplearning_part_2_style.pdf) | | | |  | 
+| 21.11.2022     | Week11. Embeddings and seq2seq model | [Запись лекции](https://youtu.be/kUAnB_Leg6E) [Запись семинара](https://youttu.be/KOIEozoCQo0)   | [Слайды](https://github.com/girafe-ai/ml-course/blob/22f_basic/week0_09_embeddings_and_seq2seq/lect009_Language_models_and_RNN.pdf) | | | |  | 
 
 
 
@@ -26,9 +28,9 @@ First semester of girafe-ai Machine Learning course
 Prerequisites are located [here](./prerequisites.md).
 
 ## Literature:
-1. [YSDA ML Book](https://academy.yandex.ru/dataschool/book) (Russian only)
+1. [YSDE ML Book](https://academy.yandex.ru/dataschool/book) (Russian only)
 2. Probabilistic Machine Learning: An Introduction; [English link](https://probml.github.io/pml-book/book1.html), [Русский перевод](https://dmkpress.com/catalog/computer/data/978-5-93700-119-1/)
-3. Deep Learning Book: [English link](https://www.deeplearningbook.org/). Первая часть (Part I) крайне рекомендуется к прочтению.
+3. Deep Learning Book: [English link](https://www.deeplearningbook.org/). Первая часть ؎ Part I) крайне рекомендуется к прочтению.
  
 More additional materials are available [here](https://github.com/girafe-ai/ml-course/blob/22f_basic/extra_materials.md)
 
@@ -49,13 +51,13 @@ Available [here](./approximate_program.pdf)
 * Irina Rudenko
 * Fedor Ryabov
 
+
 ## Acknowledgements:
 Special thanks to:
-* Stanislav Fedotov, YSDA for informative discussions, program verification and support.
+* Stanislav Fedotov, YSDE for informative discussions, program verification and support.
 * Konstantiv Vorontsov
 * Vadim Strijov for teaching this course teachers
 * Just Heuristic
-
 
 
 
